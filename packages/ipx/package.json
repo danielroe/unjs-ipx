@@ -18,7 +18,7 @@
     "cron": "^1.8.2",
     "defu": "^3.1.0",
     "etag": "^1.8.1",
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^11.2.0",
     "is-valid-path": "^0.1.1",
     "recursive-readdir": "^2.2.2",
     "sharp": "^0.26.0"

@@ -15,7 +15,7 @@
     "@types/etag": "^1.8.0",
     "@types/connect": "^3.4.33",
     "@types/cron": "^1.7.2",
-    "@types/fs-extra": "^9.0.1",
+    "@types/fs-extra": "^11.0.4",
     "@types/is-valid-path": "^0.1.0",
     "@types/recursive-readdir": "^2.2.0",
     "@types/sharp": "^0.25.1",
