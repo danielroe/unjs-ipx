@@ -21,7 +21,7 @@
     "@types/sharp": "^0.25.1",
     "@nuxtjs/eslint-config-typescript": "^3.0.0",
     "bili": "^3.4.2",
-    "cross-env": "^5.2.0",
+    "cross-env": "^7.0.3",
     "eslint": "^5.12.1",
     "lerna": "3.10.7",
     "nodemon": "^1.18.9",
